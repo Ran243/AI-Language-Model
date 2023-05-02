@@ -9,3 +9,6 @@ continuing to explore neural networks throguh micrograd. learnt about backpropag
 
 #4/30/2023
 implemented backpropegation into each operatoin
+
+#5/1/2023
+implemented backward function for an expression graph
