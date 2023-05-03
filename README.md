@@ -12,3 +12,6 @@ implemented backpropegation into each operatoin
 
 #5/1/2023
 implemented backward function for an expression graph
+
+#5/2/2023
+solved a bug where a node is being used for multiple times during back propegation + some grammar issues
