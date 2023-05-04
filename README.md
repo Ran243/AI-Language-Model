@@ -15,3 +15,7 @@ implemented backward function for an expression graph
 
 #5/2/2023
 solved a bug where a node is being used for multiple times during back propegation + some grammar issues
+
+#5/3/2023
+started consuming extra information on the intricacie of neural netowrks 
+https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
