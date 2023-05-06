@@ -21,4 +21,7 @@ started consuming extra information on the intricacie of neural netowrks
 https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 #5/4/2023
-learning abount gradiant descent.
+learning about gradiant descent.
+
+#5/5/2023
+implemented division, exponential, and subtraction function into micrograd. 
