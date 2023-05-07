@@ -25,3 +25,6 @@ learning about gradiant descent.
 
 #5/5/2023
 implemented division, exponential, and subtraction function into micrograd. 
+
+#5/6/2023
+created a nerual network libary in micrograd
