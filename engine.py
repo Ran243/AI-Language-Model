@@ -43,7 +43,8 @@ class Value:
         def _backward():
             self.grad += other * (self.data ** (other - 1)) * out.grad
             out._backward  =_backward
-            
+       
+        print("hello")     
         return out
              
     
