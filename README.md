@@ -28,3 +28,6 @@ implemented division, exponential, and subtraction function into micrograd.
 
 #5/6/2023
 created a nerual network libary in micrograd
+
+#5/7/2023
+createed parameters for each class in the neural network
