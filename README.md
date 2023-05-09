@@ -31,3 +31,6 @@ created a nerual network libary in micrograd
 
 #5/7/2023
 createed parameters for each class in the neural network
+
+#5/8/2023
+learnt how to do gradient descent optiiation manually (training the network)
