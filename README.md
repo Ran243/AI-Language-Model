@@ -34,3 +34,9 @@ createed parameters for each class in the neural network
 
 #5/8/2023
 learnt how to do gradient descent optiiation manually (training the network)
+
+#5/9/2023
+
+what are neural nets?
+mathmatical expressions, that takes data and takes the parameters of the neural nets followed by a loss function that try to measure the accuracy of the function. this process is repeated through gradiant descent to get the wanted result. 
+- more parameters, more power in the neural net  
