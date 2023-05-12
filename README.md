@@ -43,3 +43,6 @@ mathmatical expressions, that takes data and takes the parameters of the neural 
 #5/10/2023
 finished micrograd. going to start a new project following along woth Andrej Karpathy's course 
 https://youtu.be/PaCmpygFfXo
+
+#5/11/2023
+working on a presenration to show the functionality of micrograd
