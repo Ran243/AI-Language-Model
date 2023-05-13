@@ -46,3 +46,6 @@ https://youtu.be/PaCmpygFfXo
 
 #5/11/2023
 working on a presenration to show the functionality of micrograd
+
+#5/12/2023
+code not functioning as intended. troubleshooting.
