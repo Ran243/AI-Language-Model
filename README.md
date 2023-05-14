@@ -49,3 +49,6 @@ working on a presenration to show the functionality of micrograd
 
 #5/12/2023
 code not functioning as intended. troubleshooting.
+
+#5/13/2033
+solved issue i think?
