@@ -53,3 +53,6 @@ code not functioning as intended. troubleshooting.
 #5/13/2033
 solved issue i think?
 the issue wasnt with code. it had something to do  with my computer
+
+#5/14/2023
+spent day with mom. back to work tmr
