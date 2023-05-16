@@ -56,3 +56,6 @@ the issue wasnt with code. it had something to do  with my computer
 
 #5/14/2023
 spent day with mom. back to work tmr
+
+#5/15/2023
+continue to work on presentation
