@@ -59,3 +59,7 @@ spent day with mom. back to work tmr
 
 #5/15/2023
 continue to work on presentation
+
+#5/16/2023
+new project, contiuning with Andre onto the next level of neural networks
+https://youtu.be/PaCmpygFfXo
