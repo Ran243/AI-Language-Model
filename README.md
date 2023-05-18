@@ -63,3 +63,6 @@ continue to work on presentation
 #5/16/2023
 new project, contiuning with Andre onto the next level of neural networks
 https://youtu.be/PaCmpygFfXo
+
+#5/17/2023
+bapbap
