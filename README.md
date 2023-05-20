@@ -49,3 +49,23 @@ working on a presenration to show the functionality of micrograd
 
 #5/12/2023
 code not functioning as intended. troubleshooting.
+
+#5/13/2033
+solved issue i think?
+the issue wasnt with code. it had something to do  with my computer
+
+#5/14/2023
+spent day with mom. back to work tmr
+
+#5/15/2023
+continue to work on presentation
+
+#5/16/2023
+new project, contiuning with Andre onto the next level of neural networks
+https://youtu.be/PaCmpygFfXo
+
+#5/17/2023
+bapbap
+
+#5/18/2023
+https://outplayed.tv/media/1yr6QD/lol-sylas
