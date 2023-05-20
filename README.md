@@ -69,3 +69,6 @@ bapbap
 
 #5/18/2023
 https://outplayed.tv/media/1yr6QD/lol-sylas
+
+#5/19/2023
+ran tests on micrograd(it works now). 
