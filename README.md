@@ -72,3 +72,7 @@ https://outplayed.tv/media/1yr6QD/lol-sylas
 
 #5/19/2023
 ran tests on micrograd(it works now). 
+
+#5/20/2023
+https://youtu.be/HVsajVaabJ8 demo
+
