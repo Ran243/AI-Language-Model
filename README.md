@@ -76,3 +76,10 @@ ran tests on micrograd(it works now).
 #5/20/2023
 https://youtu.be/HVsajVaabJ8 demo
 
+#5/21/2023
+coop
+- honey hot
+- coop house spice
+- Parmesan 
+- honey spice jerk
+
