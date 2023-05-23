@@ -82,5 +82,8 @@ coop
 - coop house spice
 - Parmesan 
 - honey spice jerk
-- smokey barbecue 
+- smokey barbecue
+
+#5/22/2023
+staring personal website project 
 
