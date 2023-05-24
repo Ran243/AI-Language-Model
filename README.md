@@ -87,3 +87,6 @@ coop
 #5/22/2023
 staring personal website project 
 
+#5/23/2023
+13 hr, 2 days
+
