@@ -88,5 +88,7 @@ coop
 staring personal website project 
 
 #5/23/2023
-13 hr, 2 days
+13 hr, 2 day
+
+tim robbed.
 
