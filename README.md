@@ -94,4 +94,6 @@ tim robbed.
 
 graduation!! wahoo
 
-https://bapbap.gg#YSHCR
+https://bapbap.gg#YSH
+
+green
