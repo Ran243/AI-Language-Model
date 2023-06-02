@@ -105,4 +105,6 @@ started new book, infinite by jeremy robinson.
 senior ball 🪩🪩🪩
 
 4th in senior scav 
-https://drive.google.com/drive/mobile/folders/1YoYGj2D1kTOBMV2rQNmfA1YZMQvr3tjF
+https://drive.google.com/drive/mobile/folders/1YoYGj2D1kTOBMV2rQNmfA1YZMQvr3tj
+
+seal of biliteracy aquires 
