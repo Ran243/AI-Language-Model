@@ -112,3 +112,5 @@ seal of biliteracy aquires
 baccalaureate 
 
 graduated 🥲
+
+got my driver license 👊
