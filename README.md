@@ -90,37 +90,3 @@ staring personal website project
 #5/23/2023
 13 hr, 2 day
 
-tim robbed.
-
-graduation!! wahoo
-
-https://bapbap.gg#YSH
-
-green
-
-Apeirophobia - The Fear of Eternity.
-
-started new book, infinite by jeremy robinson. 
-
-senior ball 🪩🪩🪩
-
-4th in senior scav 
-https://drive.google.com/drive/mobile/folders/1YoYGj2D1kTOBMV2rQNmfA1YZMQvr3tj
-
-seal of biliteracy aquires 
-
-baccalaureate 
-
-graduated 🥲
-
-got my driver license 👊
-
-one day
-
-gg you know why
-
-beach nice
-
-kfc no double down
-
-14/6/16 36,153 
