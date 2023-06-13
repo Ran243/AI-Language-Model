@@ -90,4 +90,4 @@ staring personal website project
 #5/23/2023
 13 hr, 2 day
 
-tq is a op and cho is broken
+gg you know why 
